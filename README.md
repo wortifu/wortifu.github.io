@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:ff00ff&height=120&section=header&text=Hello%20There!&fontSize=60&fontColor=fff&animation=twinkling" width="100%"/>
 
   <!-- Profile Card -->
-  <img src="https://raw.githubusercontent.com/wortifu/assets/profile-card.png" width="300" style="border-radius: 15px; border: 2px solid #00ffcc; box-shadow: 0 0 20px #00ffcc; margin-top: -60px;"/>
+  <img src="https://raw.githubusercontent.com/wortifu/main/assets/profile-card.png" width="300" style="border-radius: 15px; border: 2px solid #00ffcc; box-shadow: 0 0 20px #00ffcc; margin-top: -60px;"/>
   
   <!-- Animated Typing Effect -->
   <h1 style="color: #00ffcc; font-family: 'Courier New', monospace;">
